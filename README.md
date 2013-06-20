@@ -1,0 +1,4 @@
+AFFoursquareClient
+==================
+
+AFNetworking Foursquare client
